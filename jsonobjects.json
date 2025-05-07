@@ -1,0 +1,12 @@
+
+{
+    "title" : "John Wick",
+    "age" : 25,
+    "isAvailable" : true,
+    "genres" : ["Action", "Suspense", "Revenge"],
+    "cast" : {
+        "lead": "Keanu Reeves",
+        "director": "Chad Stahelski",
+        "supportingCast": ["Ian McShane", "Laurence Fishburne", "Lance Reddick" ]
+    }    
+}
